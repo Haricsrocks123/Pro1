@@ -1,3 +1,3 @@
 # Pro1
-print("Helo World");
+print("Hello");
 blah blah
